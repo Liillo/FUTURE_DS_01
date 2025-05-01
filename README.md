@@ -27,6 +27,8 @@ To identify **trending topics** and analyze **public sentiment** on various soci
 - **Power BI / Excel**  
   - Interactive dashboard design and visualization
 
+- **Dataset**  
+  - https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset
 ---
 
 ## 📊 Project Deliverables
